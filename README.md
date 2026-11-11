@@ -1,0 +1,10 @@
+torch
+transformers
+safetensors
+numpy
+pandas
+scikit-learn
+presidio-analyzer==2.2.366
+presidio-anonymizer==2.2.366
+spacy==3.8.18
+groq
